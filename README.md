@@ -6,3 +6,6 @@ master
 
 
 master 写的内容。。。。。。
+
+
+git init
